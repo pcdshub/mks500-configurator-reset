@@ -1,6 +1,6 @@
 # mks500-configurator
 
-Consistently configure the MKS 500 gauges without the MKS software.
+For setting MKS500 gauges back to their default settings (LCLS-I config)
 
 Just plug the gauge electronics into your Windows laptop with a USB micro cable and double-click the executable.
 
